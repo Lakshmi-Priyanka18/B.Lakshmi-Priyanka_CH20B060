@@ -1,0 +1,10 @@
+.home {
+  font-size: 60px;
+  font-style: italic;
+  background-image: url("https://mail.google.com/mail/u/0?ui=2&ik=fa80c636dc&attid=0.1&permmsgid=msg-a:r-6973085008601427568&th=17ab3cfbff6ac0a6&view=att&disp=safe&realattid=17ab3cfac0514b3ed101");
+  width: 100%;
+  height: 200px;
+  color: rgb(39, 9, 9);
+  text-align: center;
+  padding-top: 50px;
+}
